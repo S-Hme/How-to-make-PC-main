@@ -100,7 +100,7 @@ header{
         font-size: 30px;
     }
     .header-center{
-        float: left;
+        margin-left: 0%;
     }
 
 }
