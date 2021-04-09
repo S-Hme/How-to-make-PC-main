@@ -56,7 +56,8 @@ header{
 }
 
 .main{
-    margin-left: 40px;
+    margin-left: 80px;
+    position: relative;
 }
 
 .title{
@@ -74,18 +75,17 @@ header{
     font-size: 50px;
 }
 
-.img{
-    position: relative;
+.contents-wrapper{
+    margin-top: 50px;
 }
 
 .img1{
     width: 500px;
     height: 300px;
     position: absolute;
+    top: 300px;
     left: 600px;
 
 
 }
-
-
 
