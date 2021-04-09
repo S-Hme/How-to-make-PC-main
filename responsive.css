@@ -1,6 +1,7 @@
 @media all and (max-width:450px){
     .main{
         margin: 0 20px;
+        position: relative;
     }
     .title-name{
         padding-top: 45px;
@@ -11,4 +12,18 @@
         margin-left: 0%;
     }
 
+    .paletteimg{
+        height: 50px;
+        width: 100px;
+        opacity: 0.8;
+        color: black;
+        line-height: 50px;
+        font-family: Arial Black;
+    }
+    
+    .img1{
+        width: 200;
+        height: 120px;
+        margin: 0 auto;
+    }
 }
