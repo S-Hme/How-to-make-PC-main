@@ -28,6 +28,19 @@
         font-size: 30px;
     }
     
+    .title-article{
+        margin-top: 70px;
+    }
+
+    .contents-wrapper{
+        margin-top: 60px;
+    }
+
+    .part{
+        margin-left: 40px;
+        display: block;
+    }
+
     .img1{
         width: 90%;
         height: auto;
