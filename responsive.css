@@ -28,15 +28,16 @@
     }
 
     .bb{
-        border-bottom: 1px solid cornflowerblue;
+        border: 1px solid cornflowerblue;
     }
 
     .ma{
-        margin-top: 250px;
+        margin-top: 280px;
     }
 
-    .contents-wrapper{
+   .contents-wrapper{
         margin-top: 60px;
+        margin-left:0;
     }
 
     .part{
@@ -47,7 +48,7 @@
         width: 90%;
         height: auto;
         position: absolute;
-        top: 350px;
+        top: 330px;
         
     }
 }
