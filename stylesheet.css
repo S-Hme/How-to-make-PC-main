@@ -73,6 +73,11 @@ header{
     font-size: 50px;
 }
 
+.bb{
+    display: inline-block;
+    border-bottom: 1px solid cornflowerblue;
+}
+
 .contents-wrapper{
     margin: 50px 0 0 80px;
 }
