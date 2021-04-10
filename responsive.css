@@ -1,13 +1,5 @@
 @media all and (max-width:450px){
-    .main{
-        margin: 0 20px;
-        position: relative;
-    }
-    .title-name{
-        padding-top: 45px;
-        text-align: center;
-        font-size: 30px;
-    }
+
     .header-center{
         margin-left: 0%;
     }
@@ -20,9 +12,25 @@
         line-height: 50px;
         font-family: Arial Black;
     }
+
+    .main{
+        width: 100%;
+        position: relative;
+    }
+
+    .top-wrapper{
+        margin: 60px 10px 0 10px;
+    }
+
+    .title-name{
+        padding-top: 45px;
+        text-align: center;
+        font-size: 30px;
+    }
     
     .img1{
-        width: 70%;
+        width: 90%;
+        height: auto;
         margin: 0 auto;
     }
 }
