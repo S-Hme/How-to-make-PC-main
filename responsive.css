@@ -13,11 +13,6 @@
         font-family: Arial Black;
     }
 
-    .main{
-        width: 100%;
-        position: relative;
-    }
-
     .top-wrapper{
         margin: 60px 10px 0 10px;
     }
@@ -29,7 +24,15 @@
     }
     
     .title-article{
-        margin-top: 70px;
+        margin-top: 55px;
+    }
+
+    .bb{
+        border-bottom: 1px solid cornflowerblue;
+    }
+
+    .ma{
+        margin-top: 250px;
     }
 
     .contents-wrapper{
@@ -38,12 +41,13 @@
 
     .part{
         margin-left: 40px;
-        display: block;
     }
 
     .img1{
         width: 90%;
         height: auto;
-        margin: 0 auto;
+        position: absolute;
+        top: 350px;
+        
     }
 }
