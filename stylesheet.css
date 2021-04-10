@@ -83,6 +83,10 @@ header{
 }
 
 .img1{
+    display: none;
+}
+
+.img2{
     width: 500px;
     height: 300px;
     position: absolute;
