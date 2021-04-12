@@ -10,7 +10,7 @@
         width: 35%;
         height: auto;
         position: absolute;
-        top: 370px;
+        top: 385px;
         left: 55%;
     
     
@@ -48,6 +48,10 @@
         margin-top: 55px;
     }
 
+    .aa{
+        display: none;
+    }
+
     .bb{
         border: 1px solid cornflowerblue;
     }
@@ -57,7 +61,7 @@
         margin-left:0;
     }
 
-    .part{
+    .allpart{
         margin-left: 40px;
     }
 
