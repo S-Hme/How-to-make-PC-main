@@ -64,7 +64,7 @@ header{
 
 .category{
     float:left;
-    text-align:left;   
+    text-align:left; 
 }
 
 .title-name{
@@ -76,10 +76,6 @@ header{
 .aa{
     display: inline-block;
     border-bottom: 1px solid cornflowerblue;
-}
-
-.bb{
-    display: none;
 }
 
 .contents-wrapper{
